@@ -27,34 +27,6 @@
           "price": 38,
           "article": "T4",
           "available": true
-        },
-    {
-          "image": "11.jpg",
-          "name": "Sun Kissed",
-          "price": 38,
-          "article": "T5",
-          "available": true
-        },
-    {
-          "image": "10.jpg",
-          "name": "Shoot Shot",
-          "price": 38,
-          "article": "T6",
-          "available": true
-        },
-    {
-          "image": "9.jpg",
-          "name": "Be Brave",
-          "price": 38,
-          "article": "T7",
-          "available": true
-        },
-    {
-          "image": "12.jpg",
-          "name": "Nutella",
-          "price": 38,
-          "article": "T8",
-          "available": true
         }
-  ]
+      ]
 }
