@@ -59,5 +59,7 @@ h2 {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  max-width: 1300px;
+  margin: 0 auto;
 }
 </style>
