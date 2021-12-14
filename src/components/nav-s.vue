@@ -42,6 +42,7 @@ export default {
   backdrop-filter: blur(15px);
   height: 79px;
   width: 100%;
+
   position: fixed;
   display: flex;
   z-index: 23;
